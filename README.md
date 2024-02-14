@@ -28,8 +28,8 @@ yarn add react-native-sunmi-v2-printer
 Install from source
 
 ```bash
-npm install https://github.com/suraneti/react-native-sunmi-v2-printer.git --save
-yarn add https://github.com/suraneti/react-native-sunmi-v2-printer.git --save
+npm install https://github.com/ReactNativ/react-native-sunmi-v2-printer.git --save
+yarn add https://github.com/ReactNativ/react-native-sunmi-v2-printer.git --save
 ```
 
 **Step 2:** (For React-Native < 0.60)
